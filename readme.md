@@ -1,0 +1,5 @@
+- Criar a Conta de Serviço e Chave no Google Console (Michael demonstra nesse vídeo: https://youtu.be/Ifh5FVoQg_8 )
+- yarn
+- configurar .env com endereço da GOOGLE_API_KEY
+- yarn build / yarn start
+- O QR Code/Whatsapp pode ser obtido no console (se local) ou no http://localhost:3334/qrcode)
