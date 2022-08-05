@@ -1,5 +1,6 @@
-Integração WhatsApp (Venom) e Dialogflow - roteamento de mensagens de Texto:
-- Configurar Conta de Serviço/Chave no GC
-- configurar .env 
+WhatsApp (@Orkestral Venom) & Dialogflow (NLP) Bundle for message routing:
+
+- .env : Service Account and Google Cloud Key
 - yarn / build / start
-- O QR Code/Whatsapp pode ser obtido no console ou no http://localhost:3334/qrcode
+- Whatsapp QR Code Auth through console or http://localhost:3334/qrcode
+- Respond.io manages the alternative channels (Telegram, Web Chat - Same Workflow, Service Desk & Team)
